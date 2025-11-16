@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ===================== WinRecent Explorer specific =====================
+
+# Dossier de sauvegarde des .lnk (créé à côté du script / de l'exe)
+lnk_backup/
+
+# Sauvegardes de la base générées depuis l'appli
+history*.db

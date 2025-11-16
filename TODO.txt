@@ -1,0 +1,7 @@
+maintenant le clic gauche ouvre la cible  , le clic droits propose un menu ( ouvrir (dasn recent , ouvrior la cible , copier le nom dui fichier)
+
+
+avec git on peut envoyer un executable compiler sur GIt, c'est un release c'est ca?
+
+
+comment indexer mon programme pour que les personne le trouve plus facilement
